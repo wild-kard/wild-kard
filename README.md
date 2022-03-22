@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Full Stack Developer with experience in Python, Javascript (React & Node.js), Wordpress (and PHP for plugins), HTML/CSS, Bitcoin and Liquid. 
+
+I am currently doing freelance work in web design for ecommerce, primarily for companies that wish to implement customized and self hosted BTCPAY payment backends for self clearing and zero fee payments.
+
+I am also currently working for a Bitcoin brokerage on a project with Liquid (L-BTC).
+
+If it involves Bitcoin I'm generally interested. 
