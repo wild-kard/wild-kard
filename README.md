@@ -21,4 +21,4 @@ I am currently doing freelance work in web design for ecommerce, primarily for c
 
 If it involves Bitcoin I'm generally interested. 
 
-Today I am: Learning Elixir & working on Arctica.
+Working on Arctica, a free and open source Bitcoin cold storage protocol. 
