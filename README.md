@@ -21,4 +21,4 @@ I am currently doing freelance work in web design for ecommerce, primarily for c
 
 If it involves Bitcoin I'm generally interested. 
 
-Currently: Learning Elixir. 
+Today I am: Learning Elixir. 
