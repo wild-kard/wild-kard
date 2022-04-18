@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Full Stack Developer with experience in Python, Javascript (React & Node.js), Wordpress (and PHP for plugins), HTML/CSS, Bitcoin and Liquid. 
+Full Stack Developer with experience in Python, Javascript (React & Node.js), Wordpress (and PHP for plugins), HTML/CSS, Bitcoin and Liquid. Learning Elixir. 
 
 I am currently doing freelance work in web design for ecommerce, primarily for companies that wish to implement customized and self hosted BTCPAY payment backends for self clearing and zero fee payments.
 
