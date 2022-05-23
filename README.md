@@ -17,8 +17,5 @@ Here are some ideas to get you started:
 
 Full Stack Developer with experience in Python, Javascript (React & Node.js), Wordpress (and PHP for plugins), HTML/CSS, Bitcoin and Liquid. Learning Elixir. 
 
-I am currently doing freelance work in web design for ecommerce, primarily for companies that wish to implement customized and self hosted BTCPAY payment backends for self clearing and zero fee payments.
-
-If it involves Bitcoin I'm generally interested. 
 
 Working on Arctica, a free and open source Bitcoin cold storage protocol. 
