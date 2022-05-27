@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Full Stack Developer with experience in Python, Javascript (React & Node.js), Wordpress (and PHP for plugins), HTML/CSS, Bitcoin and Liquid. Learning Elixir. 
+Full Stack Developer with experience in Python, Javascript (React & Node.js), Wordpress (and PHP for plugins), HTML/CSS, Bitcoin and Liquid. Learning Rust. 
 
 
 Working on Arctica, a free and open source Bitcoin cold storage protocol. 
